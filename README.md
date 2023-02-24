@@ -9,6 +9,6 @@ In addition, an example data set (experiment and simulation) for SAU-Net trainin
 depth_of_field_expension_matlab: It includes the program of depth of field expansion, which is used to reconstruct the shape 
 of particles in the hologram by combining the predicted mask.
 
-SAU-Net: It includes SAU-Net model, loss function and parameter file saved after running 50 epoch.
+SAU-Net: It includes SAU-Net model and loss function.
 
 Zernike_program: It contains a procedure for generating simulated particles from parent sample particles using Zernike moments.
